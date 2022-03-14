@@ -1,0 +1,14 @@
+12/03/22
+
+ELIF != ELSE
+ELIF EXECUTA UMA NOVA FUNÇÃO, AO INVÉS DA NEGAÇÃO DO IF
+
+if/elif/else
+
+[] LISTA (ARRAY)
+()TUPLA
+{} DICIONARIO
+
+f' - permite imprimir a variável
+
+*como modificar tupla*
